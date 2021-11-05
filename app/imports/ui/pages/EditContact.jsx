@@ -11,7 +11,7 @@ import { Contacts } from '../../api/contact/Contacts';
 const bridge = new SimpleSchema2Bridge(Contacts.schema);
 
 /** Renders the Page for editing a single document. */
-class EditStuff extends React.Component {
+class EditContact extends React.Component {
 
   // On successful submit, insert the data.
   submit(data) {
@@ -51,7 +51,7 @@ class EditStuff extends React.Component {
 }
 
 // Require the presence of a Stuff document in the props object. Uniforms adds 'model' to the props, which we use.
-EditStuff.propTypes = {
+EditContact.propTypes = {
   doc: PropTypes.object,
   model: PropTypes.object,
   ready: PropTypes.bool.isRequired,
@@ -71,4 +71,4 @@ export default withTracker(({ match }) => {
     doc,
     ready,
   };
-})(EditStuff);
+})(EditContact);
