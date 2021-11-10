@@ -2,7 +2,7 @@
 title: Digit ICS-314 Project
 ---
 
-<img src="doc/landing.png">
+<img src="doc/directory/landing.png">
 
 ## Overview
 
