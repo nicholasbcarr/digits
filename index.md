@@ -1,5 +1,5 @@
 ---
-title: Digit ICS-314 Project
+title: Digits
 ---
 
 <img src="doc/directory/landing.png">
