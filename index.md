@@ -8,9 +8,9 @@ title: Digit ICS-314 Project
 
 Digits is an application that allow users to do a few useful things:
 
-1) Create contacts with corresponding Name, Address, Image and Description.
-2) Edit and update contacts as thing change in real time.
-3) Add timestamped notes to serve as reminders from meetings, phone calls, etc...
+1. Create contacts with corresponding Name, Address, Image and Description.
+2. Edit and update contacts as thing change in real time.
+3. Add timestamped notes to serve as reminders from meetings, phone calls, etc...
 
 ## Installation
 
